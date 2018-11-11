@@ -1,3 +1,17 @@
+#Selenium Challenge
+
+#1. Create a branch on your project with name "darksky"
+#2. Switch to that branch
+#3. Implement below Scenario in cucumber
+#Step1: Goto "https://darksky.net/"
+#Step2: Clear search text field
+#Step3: Enter address or zipcode into the search field
+#Step4: Click on search magnifying glass
+#Step5: Verify current temperature is between low and high value
+#4. Create PR and submit the challenge
+
+
+
 Feature: Open Main Page
   This feature opens main web page
 
